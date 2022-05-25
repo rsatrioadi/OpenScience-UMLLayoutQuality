@@ -24,7 +24,7 @@ For the complete explanation on the methodology of our study, including the form
 
 |Link|Description|
 |-|-|
-|[zenodo<sup>⭧</sup>](https://zenodo.org/record/5037744#.YO1lUagzaUk)|The 654 diagrams that we selected from the Lindholmen dataset.|
+|[zenodo<sup>🡭</sup>](https://zenodo.org/record/5037744#.YO1lUagzaUk)|The 654 diagrams that we selected from the Lindholmen dataset.|
 [01-diagrams](01-diagrams/)|A copy of the diagrams from the zenodo link.|
 |[02-labeling/instructions.md](02-labeling/instructions.md)|The instruction texts shown to the experts on a Web interface used for the manual labeling process.|
 |[03-features-labels/dataset.csv](03-features-labels/dataset.csv)|A table containing the extracted features and quality labels of the final 609 diagrams.|
