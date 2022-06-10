@@ -30,8 +30,8 @@ For the complete explanation on the methodology of our study, including the form
 |[03-features-labels/dataset.csv](03-features-labels/dataset.csv)|A table containing the extracted features and quality labels of the final 609 diagrams.|
 |[03-features-labels/dataset_scaled.csv](03-features-labels/dataset_scaled.csv)|A version of the dataset with normalized feature values.|
 |[04-parameters/weka.md](04-parameters/weka.md)|The parameter values and usage instructions for the selected twelve machine learning algorithms from the Weka tool. These are the default values for the algorithms as of Weka 3.8.5.|
-|[04-parameters/confusion-matrix.ipynb](04-parameters/confusion-matrix.ipynb)|A `python` notebook that loads a Weka model and generates a confusion matrix from the predicted labels.|
 |[04-parameters/grid-search.ipynb](04-parameters/grid-search.ipynb)|A `python` notebook for gird search on the Random Forest algorithm.|
+|[05-parameters/confusion-matrix.ipynb](05-parameters/confusion-matrix.ipynb)|A `python` notebook that loads a Weka model and generates a confusion matrix from the predicted labels.|
 |[05-analysis/features.ipynb](05-analysis/features.ipynb)|A `python` notebook used in the analysis of features and their relations to the quality labels.|
 
 Note: the python scripts were verified to work on Python 3.9.5 and scikit-learn 1.0.2.
